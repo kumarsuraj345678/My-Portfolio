@@ -2,27 +2,28 @@ import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./Hero.module.css";
 
-const Hero = () => {
+export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.container}>
         <h1 className={styles.title}>Hi, I am Suraj Kumar</h1>
-        <p className={styles.desc}>
-          I'm an aspiring full-stack developer eager to learn and grow in React
-          and NodeJS. Feel free to reach out if you'd like to connect and
-          discuss further!
+        <p className={styles.description}>
+          Recent graduate with a passion for full-stack development, skilled in
+          React and NodeJS through personal projects and coursework. Eager to
+          apply academic knowledge and learn quickly in a dynamic environment.
+          Let's connect to explore how I can contribute to your team's success.
         </p>
         <a
-          className={styles.contactBtn}
           href="mailto:kumarsuraj345678@gmail.com"
+          className={styles.contactBtn}
         >
           Contact Me
         </a>
       </div>
       <img
-        className={styles.heroImg}
         src={getImageUrl("hero/heroImage.png")}
         alt="My Hero Image"
+        className={styles.heroImg}
       />
       <div className={styles.topBlur}></div>
       <div className={styles.bottomBlur}></div>

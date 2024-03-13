@@ -1,4 +1,5 @@
 @import "../../vars.css";
+
 .container {
   position: relative;
   display: flex;
@@ -22,7 +23,7 @@
   font-size: 72px;
   font-weight: 900;
   margin-bottom: 33px;
-  font-family: var(--font-dm-sans);
+  font-family: var(--font-roboto);
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 1) 70%,
@@ -32,10 +33,9 @@
   -webkit-background-clip: text;
 }
 
-.desc {
+.description {
   font-size: 30px;
-  color: var(--color-text);
-  font-family: var(--font-dm-sans);
+  font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
 
@@ -49,9 +49,11 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
+
 .heroImg {
   width: 50%;
   z-index: 1;
+
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -75,7 +77,7 @@
   width: 50vw;
   height: 50vw;
   min-width: 350px;
-  min-height: 350px;
+  min-width: 350px;
   top: -128px;
   left: -10vw;
   border-radius: 764px;
@@ -83,12 +85,13 @@
   filter: blur(100px);
   z-index: 0;
 }
+
 .bottomBlur {
   position: absolute;
   width: 70vw;
   height: 50vw;
   min-width: 350px;
-  min-height: 250px;
+  min-width: 250px;
   top: 246px;
   right: -25vw;
   border-radius: 764px;
@@ -101,6 +104,7 @@
   .container {
     flex-direction: column-reverse;
   }
+
   .content {
     align-items: center;
   }
