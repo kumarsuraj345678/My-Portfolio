@@ -1,13 +1,20 @@
 @import "../../vars.css";
 
 .navbar {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 61px;
-  z-index: 2;
-  margin: 0 10%;
+  padding: 20px 10%;
+  background-color: transparent;
+  z-index: 1000;
+}
+
+.scrolled {
+  background-color: var(--color-bg);
 }
 
 .title {
@@ -17,7 +24,7 @@
   color: var(--color-text);
 }
 
-.menuBtn{
+.menuBtn {
   display: none;
 }
 
@@ -35,14 +42,22 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+  transition: background-color 0.3s, color 0.3s;
+  border-radius: 100px;
+  padding: 5px 15px;
 }
 
-
+.menuItems a:hover {
+  font-weight: 700;
+  background-color: var(--color-text);
+  color: var(--color-bg);
+}
 
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;
     align-items: flex-start;
+    padding: 20px 10%; /* Adjust padding as needed */
   }
   .menu {
     position: absolute;
@@ -73,9 +88,8 @@
     padding: 24px 33px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
   }
-  .menuOpen{
+  .menuOpen {
     display: flex;
     z-index: 1;
-}
-
+  }
 }
