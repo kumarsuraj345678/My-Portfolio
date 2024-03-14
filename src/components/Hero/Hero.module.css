@@ -31,16 +31,31 @@
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .description {
   font-size: 30px;
-  font-family: var(--font-dm-sans);
+  font-family: var(--font-roboto);
   margin-bottom: 52px;
-  color: var(--color-text);
 }
 
-.contactBtn {
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--color-text);
+  z-index: 1;
+}
+
+.buttonsRow {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.contactBtn,
+.myResumeBtn {
   text-decoration: none;
   background-color: var(--color-primary);
   color: var(--color-text);
@@ -48,13 +63,21 @@
   font-size: 30px;
   font-weight: 600;
   padding: 17px 26px;
+  margin-right: 1rem;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  transition: background-color 0.3s ease;
+}
+.contactBtn:hover,
+.myResumeBtn:hover {
+  background-color: var(--color-text);
+  color: var(--color-primary);
 }
 
 .heroImg {
   width: 50%;
   z-index: 1;
-
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -108,5 +131,15 @@
 
   .content {
     align-items: center;
+  }
+  .buttonsRow {
+    flex-direction: column;
+    align-items: center;
+  }
+  .contactBtn,
+  .myResumeBtn {
+    width: auto;
+    margin: 1rem 0;
+    font-size: 24px;
   }
 }
