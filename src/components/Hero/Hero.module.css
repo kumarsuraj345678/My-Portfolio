@@ -35,8 +35,9 @@
 
 .description {
   font-size: 30px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-dm-sans);
   margin-bottom: 52px;
+  color: var(--color-text);
 }
 
 .contactBtn {
