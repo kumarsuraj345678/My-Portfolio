@@ -135,6 +135,9 @@
     align-items: center;
     padding-top: 20px;
   }
+  .title {
+    text-align: center;
+  }
   .buttonsRow {
     flex-direction: column;
     align-items: center;
