@@ -14,12 +14,13 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
+            <img src={getImageUrl("about/codeIcon.png")} alt="Cursor Icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites.
+                Passionate about front-end development, I create engaging
+                interfaces with HTML, CSS, and JavaScript, constantly evolving
+                with the latest web tech for impactful solutions.
               </p>
             </div>
           </li>
@@ -29,8 +30,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience in developing fast and optimized back-end
-                systems and APIs.
+                Enthusiastic about backend development, I craft efficient
+                solutions. Skilled in building scalable APIs and databases with
+                Node.js and MongoDB.
               </p>
             </div>
           </li>
@@ -40,8 +42,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well.
+                Aspiring UI designer dedicated to crafting visually stunning,
+                intuitive interfaces. Drawing inspiration from emerging trends,
+                I bring a fresh perspective and keen eye for aesthetics.
               </p>
             </div>
           </li>

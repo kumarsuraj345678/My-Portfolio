@@ -15,7 +15,7 @@ export const Hero = () => {
       <div className={`${styles.content} ${styles.buttonContainer}`}>
         <h1 className={styles.title}>Hi, I'm Suraj Kumar</h1>
         <p className={styles.description}>
-          Recent graduate with a passion for full-stack development, skilled in
+          Recent graduate with a passion for Full-Stack Software Developer, skilled in
           ReactJS and NodeJS through personal projects and coursework.<br></br>
           Eager to apply academic knowledge and learn quickly in a dynamic
           environment.<br></br>
