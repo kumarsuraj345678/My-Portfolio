@@ -133,6 +133,7 @@
 
   .content {
     align-items: center;
+    padding-top: 20px;
   }
   .buttonsRow {
     flex-direction: column;
