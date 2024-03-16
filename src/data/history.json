@@ -1,29 +1,62 @@
 [
-    {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Microsoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
-    }
-  ]
+  {
+    "role": "Frontend Developer Apprentice",
+    "organisation": "Pirple",
+    "startDate": "Jan, 2020",
+    "endDate": "March, 2020",
+    "experiences": [
+      "Completed the FRONTEND FUNDAMENTALS course.",
+      "Mastered HTML5 and CSS3 basics and advanced.",
+      " Applied skills in Responsiveness, User Experience, Responsive Web Design, and GUI design."
+    ],
+    "imageSrc": "history/pirple.png"
+  },
+  {
+    "role": "Web Developer Internship",
+    "organisation": "LogixFirm",
+    "startDate": "Jan, 2020",
+    "endDate": "Apr, 2020",
+    "experiences": [
+      "Completed industrial training in Web Development with success.",
+      "Showcased strong algorithmic skills and a commitment to continuous learning."
+    ],
+    "imageSrc": "history/logixfirm.png"
+  },
+  {
+    "role": "Web Development Apprentice",
+    "organisation": "Udemy",
+    "startDate": "May, 2021",
+    "endDate": "Sep, 2021",
+    "experiences": [
+      "Expert in web development using LAMP Stack, HTML5, CSS, Bootstrap, and JavaScript.",
+      "Skilled in creating responsive web apps with XML, AJAX, and dynamic content integration.",
+      "Experienced in MySQL database integration and server administration.",
+      "Proficient in configuring domain names and managing DNS settings, including setting up custom business email addresses with Google Apps for Work."
+    ],
+    "imageSrc": "history/udemy.png"
+  },
+  {
+    "role": "Google Cloud Ready Facilitator Program Apprentice",
+    "organisation": "Google Cloud",
+    "startDate": "Apr, 2022",
+    "endDate": "Jul, 2022",
+    "experiences": [
+      "Engaged in the Google Cloud Ready Facilitator program.",
+      "Acquired proficiency in diverse Google Cloud technologies.",
+      "Attained the Ultimate Milestone and earned numerous badges to enhance my expertise."
+    ],
+    "imageSrc": "history/googlecloud.png"
+  },
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "YBI Foundation",
+    "startDate": "Aug, 2022",
+    "endDate": "Sep, 2022",
+    "experiences": [
+      "During the internship, I gained insights into approaching machine learning problems.",
+      "I learned the essential steps required for building machine learning models.",
+      "Submitted two hands-on projects: Mushroom Classification and Credit Card Fraud Detection"
+    ],
+    "imageSrc": "history/ybi.png"
+  }
+]

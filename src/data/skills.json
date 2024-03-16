@@ -16,6 +16,10 @@
     "imageSrc": "skills/python.png"
   },
   {
+    "title": "Google Colab",
+    "imageSrc": "skills/googlecolab.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -70,5 +74,9 @@
   {
     "title": "Github",
     "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "skills/vscode.png"
   }
 ]
