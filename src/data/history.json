@@ -9,10 +9,11 @@
       "Mastered HTML5 and CSS3 basics and advanced.",
       " Applied skills in Responsiveness, User Experience, Responsive Web Design, and GUI design."
     ],
-    "imageSrc": "history/pirple.png"
+    "imageSrc": "history/pirple.png",
+    "certificateUrl": "https://www.credential.net/dd5b5cbe-e122-45aa-9465-aa256c8044bf#gs.659ai9"
   },
   {
-    "role": "Web Developer Internship",
+    "role": "Web Development Industrial Training",
     "organisation": "LogixFirm",
     "startDate": "Jan, 2020",
     "endDate": "Apr, 2020",
@@ -20,7 +21,8 @@
       "Completed industrial training in Web Development with success.",
       "Showcased strong algorithmic skills and a commitment to continuous learning."
     ],
-    "imageSrc": "history/logixfirm.png"
+    "imageSrc": "history/logixfirm.png",
+    "certificateUrl": "https://drive.google.com/file/d/1nGCAGkR7RdrnLGa1kvL0iQ3SfRXrsVo4/view?usp=sharing"
   },
   {
     "role": "Web Development Apprentice",
@@ -33,7 +35,8 @@
       "Experienced in MySQL database integration and server administration.",
       "Proficient in configuring domain names and managing DNS settings, including setting up custom business email addresses with Google Apps for Work."
     ],
-    "imageSrc": "history/udemy.png"
+    "imageSrc": "history/udemy.png",
+    "certificateUrl": "https://www.udemy.com/certificate/UC-62301d6e-078b-4d73-b51b-5e0130db5cdf/"
   },
   {
     "role": "Google Cloud Ready Facilitator Program Apprentice",
@@ -45,7 +48,8 @@
       "Acquired proficiency in diverse Google Cloud technologies.",
       "Attained the Ultimate Milestone and earned numerous badges to enhance my expertise."
     ],
-    "imageSrc": "history/googlecloud.png"
+    "imageSrc": "history/googlecloud.png",
+    "certificateUrl": "https://drive.google.com/file/d/1rtfO9AKDpBf0-j0Jq7vnce-_dl8wjBCu/view?usp=sharing"
   },
   {
     "role": "Machine Learning Intern",
@@ -57,6 +61,7 @@
       "I learned the essential steps required for building machine learning models.",
       "Submitted two hands-on projects: Mushroom Classification and Credit Card Fraud Detection."
     ],
-    "imageSrc": "history/ybi.png"
+    "imageSrc": "history/ybi.png",
+    "certificateUrl": "https://drive.google.com/file/d/1Ybqyj8rCZ3mQnug71PzcMRUzuno-moON/view?usp=sharing"
   }
 ]

@@ -14,7 +14,10 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/codeIcon.png")} alt="Cursor Icon" />
+            <i
+              className="fa-solid fa-laptop-code fa-fade fa-2xl"
+              style={{ color: "#5ab9ff" }}
+            ></i>
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -26,7 +29,10 @@ export const About = () => {
           </li>
 
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server Icon" />
+            <i
+              className="fa-solid fa-server fa-fade fa-2xl"
+              style={{ color: "#5ab9ff" }}
+            ></i>
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -38,7 +44,10 @@ export const About = () => {
           </li>
 
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon" />
+            <i
+              className="fa-solid fa-mobile-screen-button fa-fade fa-2xl"
+              style={{ color: "#5ab9ff" }}
+            ></i>
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>

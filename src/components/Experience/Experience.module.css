@@ -103,16 +103,30 @@
   margin-left: 17px;
 }
 
+.logoContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; 
+  flex-direction: column;
+  align-items: center;
+}
+
+.certificate {
+  margin-top: 20px;
+}
+
+
+
 @media screen and (max-width: 830px) {
   .container {
-    padding-top: 100px;
+    padding-top: 0px;
   }
   .content {
     flex-direction: column;
     align-items: center;
     gap: 34px;
+    padding-top: 0px;
   }
-
   .skills {
     width: 100%;
     flex-direction: row;
@@ -130,6 +144,6 @@
   .history {
     width: 100%;
     gap: 9px;
-    padding-top: 100px;
+    padding-top: 80px;
   }
 }

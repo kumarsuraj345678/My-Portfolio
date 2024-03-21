@@ -13,16 +13,25 @@ export const Experience = () => {
           {history.map((historyItem, id) => {
             return (
               <li className={styles.historyItem} key={id}>
-                <div>
-                  <img
-                    src={getImageUrl(historyItem.imageSrc)}
-                    alt={`${historyItem.organisation} Logo`}
-                  />
-                  <a href="">
-                    <span class="material-symbols-outlined">
-                      picture_as_pdf
-                    </span>
-                  </a>
+                <div className={styles.logoContainer}>
+                  <div className={styles.logo}>
+                    <img
+                      src={getImageUrl(historyItem.imageSrc)}
+                      alt={`${historyItem.organisation} Logo`}
+                    />
+                  </div>
+                  <div className={styles.certificate}>
+                    <a
+                      href={historyItem.certificateUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i
+                        className="fa-solid fa-award fa-fade fa-2xl"
+                        style={{ color: "#5ab9ff" }}
+                      ></i>
+                    </a>
+                  </div>
                 </div>
 
                 <div className={styles.historyItemDetails}>
@@ -38,7 +47,9 @@ export const Experience = () => {
             );
           })}
         </ul>
-        <h2 className={styles.title} id="skillset">Skills & Tools</h2>
+        <h2 className={styles.title} id="skillset">
+          Skills & Tools
+        </h2>
         <div className={styles.skills}>
           {skills.map((skill, id) => {
             return (

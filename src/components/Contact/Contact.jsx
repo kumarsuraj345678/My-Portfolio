@@ -11,24 +11,30 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/emailIcon.png")} alt="Email Icon" />
+        <i
+              className="fa-solid fa-envelope fa-fade fa-2xl"
+              style={{ color: "#5ab9ff" }}
+            ></i>
           <a href="mailto:kumarsuraj345678@gmail.com">
             kumarsuraj345678@gmail.com
           </a>
         </li>
 
         <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github Icon" />
+        <i
+              className="fa-brands fa-github fa-fade fa-2xl"
+              style={{ color: "#5ab9ff" }}
+            ></i>
           <a href="https://github.com/surajkumar345678">
             github.com/surajkumar345678
           </a>
         </li>
 
         <li className={styles.link}>
-          <img
-            src={getImageUrl("contact/linkedinIcon.png")}
-            alt="Linkedin Icon"
-          />
+        <i
+              className="fa-brands fa-linkedin fa-fade fa-2xl"
+              style={{ color: "#5ab9ff" }}
+            ></i>
           <a href="https://www.linkedin.com/in/suraj-kumar-b23762131/">
             linkedin.com/in/suraj-kumar-b23762131
           </a>

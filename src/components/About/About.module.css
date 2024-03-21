@@ -38,7 +38,6 @@
 
 .aboutItem {
   display: flex;
-  flex-direction: row;
   align-items: center;
   border-radius: 1rem;
   list-style: none;
@@ -61,6 +60,15 @@
 }
 .aboutItem p {
   font-size: 20px;
+  margin: 0;
+}
+
+.aboutItem i {
+  margin-right: 1rem;
+}
+
+.aboutItem .aboutItemText{
+  flex: 1;
 }
 
 @media screen and (max-width: 830px) {
@@ -68,7 +76,7 @@
     background-color: transparent;
     padding-left: 0;
     padding-right: 0;
-    padding-top: 100px;
+    padding-top: 80px;
   }
   .content {
     flex-direction: column;
