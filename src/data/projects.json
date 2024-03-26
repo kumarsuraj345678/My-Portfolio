@@ -1,26 +1,58 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Amirty University",
+    "imageSrc": "projects/amirtyuniversity.png",
+    "description": "A responsive website showcasing Amirty University's courses, facilities, and contact information.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://amirtyuniversity.netlify.app/",
+    "source": "https://github.com/surajkumar345678/Amirty-University"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Student Registration Form",
+    "imageSrc": "projects/srf.png",
+    "description": "A sleek and intuitive web form for student registration, featuring robust validation and file upload restrictions.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://srf.netlify.app/",
+    "source": "https://github.com/surajkumar345678/Student-Registration-Form"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Calculator",
+    "imageSrc": "projects/calculator.png",
+    "description": "A sleek and user-friendly calculator for quick arithmetic calculations. Enjoy responsive design and convenient keyboard input.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://calcv1-js.netlify.app/",
+    "source": "https://github.com/surajkumar345678/Calculator"
+  },
+  {
+    "title": "Quote Cycle",
+    "imageSrc": "projects/quotecycle.png",
+    "description": "Your Daily Dose of Inspiration. Discover, share, and be inspired by random quotes with just a click. Simple, elegant, and motivational.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Type.fit API"],
+    "demo": "https://quotecycle.netlify.app/",
+    "source": "https://github.com/surajkumar345678/Quote-Cycle"
+  },
+  {
+    "title": "Infinitious",
+    "imageSrc": "projects/infinitious.png",
+    "description": "Endless inspiration with infinite scrolling. Explore captivating images seamlessly on any device. Click, explore, and get lost in a visual journey.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Unsplash API"],
+    "demo": "https://infinitious.netlify.app/",
+    "source": "https://github.com/surajkumar345678/Infinitious"
+  },
+  {
+    "title": "Paint Clone",
+    "imageSrc": "projects/paint.png",
+    "description": "A web-based canvas application inspired by MS Paint, offering intuitive tools for digital artwork creation. Explore a familiar interface, unleash your creativity, and save your masterpieces with ease.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Canvas API"],
+    "demo": "https://paintc.netlify.app/",
+    "source": "https://github.com/surajkumar345678/Paint-Clone"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/t3challenge.png",
+    "description": "A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Features include interactive gameplay, win and draw detection, and responsive design. ",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://t3challenge.netlify.app/",
+    "source": "https://github.com/surajkumar345678/Tic-Tac-Toe-Game"
   }
 ]
