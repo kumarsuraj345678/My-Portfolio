@@ -54,5 +54,37 @@
     "skills": ["HTML5", "CSS3", "JavaScript"],
     "demo": "https://t3challenge.netlify.app/",
     "source": "https://github.com/surajkumar345678/Tic-Tac-Toe-Game"
+  },
+  {
+    "title": "Liv Weather App",
+    "imageSrc": "projects/livweather.png",
+    "description": "Stay informed about weather conditions and local time with this dynamic application. Enjoy real-time updates and sleek weather icons for any city. Stay stylish, stay informed!",
+    "skills": ["HTML5", "CSS3", "JavaScript", "OpenWeatherMap API"],
+    "demo": "https://livweather.netlify.app/",
+    "source": "https://github.com/surajkumar345678/Live-Weather-App"
+  },
+  {
+    "title": "ImagiNet",
+    "imageSrc": "projects/imaginet.png",
+    "description": " Embark on a visual journey like no other with ImagiNet. Explore a treasure trove of mesmerizing images, each one a masterpiece waiting to inspire. From breathtaking landscapes to awe-inspiring portraits, discover the magic of imagery. ",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Unsplash API"],
+    "demo": "https://imaginet.netlify.app/",
+    "source": "https://github.com/surajkumar345678/ImagiNet"
+  },
+  {
+    "title": "S3CUREPASS",
+    "imageSrc": "projects/s3curepass.png",
+    "description": "Your sleek password manager. Effortlessly store and access your passwords. Say goodbye to password chaos!",
+    "skills": ["React", "React Toastify", "UUID", "Tailwind CSS"],
+    "demo": "https://s3curepass.netlify.app/",
+    "source": "https://github.com/surajkumar345678/S3CUREPASS"
+  },
+  {
+    "title": "To-Do List",
+    "imageSrc": "projects/todolist.png",
+    "description": "Effortlessly manage your tasks with this intuitive To-Do List application, designed for simplicity and productivity.",
+    "skills": ["React", "UUID", "Tailwind CSS", "LocalStorage"],
+    "demo": "https://todaydo.netlify.app/",
+    "source": "https://github.com/surajkumar345678/To-Do-List-App"
   }
 ]
