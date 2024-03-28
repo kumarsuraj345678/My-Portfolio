@@ -15,26 +15,27 @@ export const Hero = () => {
       <div className={`${styles.content} ${styles.buttonContainer}`}>
         <h1 className={styles.title}>Hi, I'm Suraj Kumar</h1>
         <p className={styles.description}>
-          Graduated recently with a passion for Full-Stack Software Developer, skilled in
-          ReactJS and NodeJS through personal projects and coursework.<br></br>
+          Graduated recently with a passion for Full-Stack Software Developer,
+          skilled in ReactJS and NodeJS through personal projects and
+          coursework.<br></br>
           Eager to apply academic knowledge and learn quickly in a dynamic
           environment.<br></br>
           Let's connect to explore how I can contribute to your team's success.
         </p>
         <div className={`${styles.buttonsRow}`}>
           <a
-            href="mailto:kumarsuraj345678@gmail.com"
+            href="https://www.linkedin.com/in/suraj-kumar-b23762131/"
             className={styles.contactBtn}
           >
+            <i class="fa-solid fa-user-plus"></i>
             Connect Now
-            <i className="fa-solid fa-link"></i>
           </a>
           <a
             onClick={openResume}
             className={`${styles.contactBtn} ${styles.myResumeBtn}`}
           >
-            View Resume
             <i className="fa-solid fa-file-pdf"></i>
+            View Resume
           </a>
         </div>
       </div>

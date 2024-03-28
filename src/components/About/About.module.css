@@ -91,4 +91,7 @@
     padding-left: 0;
     padding-right: 0;
   }
+  .aboutItem i{
+    margin: 1rem;
+  }
 }

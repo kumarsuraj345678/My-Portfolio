@@ -29,7 +29,7 @@ export const Experience = () => {
                       <i
                         className="fa-solid fa-award fa-fade fa-2xl"
                         style={{ color: "#5ab9ff" }}
-                      ></i>
+                      title="Credentials"></i>
                     </a>
                   </div>
                 </div>
