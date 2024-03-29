@@ -14,11 +14,10 @@
   margin-bottom: 26px;
   border-radius: 10px;
   width: 100%;
-  height: 200px; 
-  background-size:125%;
+  height: 200px;
+  background-size: 125%;
   background-position: center;
 }
-
 
 .title {
   font-size: 25px;
@@ -67,12 +66,18 @@
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.link i{
+.link i {
   margin-right: 0.5rem;
-
 }
 
-.link:hover{
-background-color: var(--color-text);
-color: var(--color-primary);
+.link:hover {
+  background-color: var(--color-text);
+  color: var(--color-primary);
+}
+
+@media screen and (max-width: 830px) {
+  .link {
+    font-size: 1.3rem;
+    padding: 6px 12px;
+  }
 }
