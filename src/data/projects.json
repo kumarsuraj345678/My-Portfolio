@@ -11,7 +11,7 @@
     "title": "S3CUREPASS",
     "imageSrc": "projects/s3curepass.png",
     "description": "Your sleek password manager. Effortlessly store and access your passwords. Say goodbye to password chaos!",
-    "skills": ["React", "React Toastify", "UUID", "Tailwind CSS"],
+    "skills": ["React JS", "React Toastify", "UUID", "Tailwind CSS"],
     "demo": "https://s3curepass.netlify.app/",
     "source": "https://github.com/surajkumar345678/S3CUREPASS"
   },
@@ -27,7 +27,7 @@
     "title": "To-Do List",
     "imageSrc": "projects/todolist.png",
     "description": "Effortlessly manage your tasks with this intuitive To-Do List application, designed for simplicity and productivity.",
-    "skills": ["React", "UUID", "Tailwind CSS", "LocalStorage"],
+    "skills": ["React JS", "UUID", "Tailwind CSS", "LocalStorage"],
     "demo": "https://todaydo.netlify.app/",
     "source": "https://github.com/surajkumar345678/To-Do-List-App"
   },
