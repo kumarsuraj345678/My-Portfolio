@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 export const Hero = () => {
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1LnorWoV-_sv8i9EzodpDPUfard0QPj5h/view?usp=sharing",
+      "https://drive.google.com/file/d/1u5CQLaMXT-gGdi4zSVR2E-0SJRPzzwK4/view?usp=sharing",
       "_blank",
       "toolbar=yes,scrollbars=yes,resizable=yes,top=100,left=100,width=800,height=600"
     );
