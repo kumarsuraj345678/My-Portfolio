@@ -23,6 +23,7 @@
   font-weight: 400;
   letter-spacing: 2px;
 }
+
 .links {
   display: flex;
   flex-direction: column;
@@ -51,6 +52,33 @@
 
 .link a:hover {
   text-decoration: underline;
+}
+
+.box {
+  --size: 50px;
+  --p: 25px;
+  --R: 55.9px;
+
+  height: 300px;
+  margin: 5px;
+  border: 1px solid;
+  padding-top: 130px;
+  padding-bottom: 50px;
+
+  background: linear-gradient(to bottom, #19376d, transparent);
+}
+
+.box.mask {
+  -webkit-mask: radial-gradient(
+        var(--R) at 50% calc(var(--size) + var(--p)),
+        blue 99%,
+        #0000 101%
+      )
+      calc(50% - 2 * var(--size)) 0 / calc(4 * var(--size)) 100%,
+    radial-gradient(var(--R) at 50% calc(-1 * var(--p)), #0000 99%, red 101%)
+      50% var(--size) / calc(4 * var(--size)) 100% repeat-x;
+  background: linear-gradient(to bottom, #19376d, transparent);
+  border: none;
 }
 
 @media screen and (max-width: 830px) {

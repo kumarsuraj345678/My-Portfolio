@@ -4,7 +4,10 @@ import styles from "./Contact.module.css";
 
 export const Contact = () => {
   return (
-    <footer id="contact" className={styles.container}>
+    <footer
+      id="contact"
+      className={`${styles.container} ${styles.box} ${styles.mask}`}
+    >
       <div className={styles.text}>
         <h2>Contact Me</h2>
         <p>Feel free to reach out!</p>
