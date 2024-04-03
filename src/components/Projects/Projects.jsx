@@ -18,7 +18,7 @@ const Projects = () => {
           className={styles.moreBtn}
           title="More Projects"
         >
-          <i class="fa-solid fa-ellipsis fa-fade"></i>
+          <i className="fa-solid fa-ellipsis fa-fade"></i>
         </a>
       </div>
     </section>
