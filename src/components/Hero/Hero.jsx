@@ -27,7 +27,7 @@ export const Hero = () => {
             href="https://www.linkedin.com/in/suraj-kumar-b23762131/"
             className={styles.contactBtn}
           >
-            <i class="fa-solid fa-user-plus"></i>
+            <i className="fa-solid fa-user-plus"></i>
             Connect Now
           </a>
           <a
