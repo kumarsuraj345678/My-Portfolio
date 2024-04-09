@@ -28,7 +28,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0 23px;
+  padding: 20px 23px;
   list-style: none;
   gap: 26px;
 }
@@ -94,13 +94,14 @@
     font-size: 16px;
   }
   .links {
-    margin-top: 20px;
+    margin-top: 0px;
+    padding: 10px 23px;
   }
   .link img {
     width: 25px;
   }
   .link a {
-    font-size: 16px;
+    font-size: 12px;
   }
   .text {
     display: flex;
@@ -109,5 +110,9 @@
   }
   .links {
     align-items: center;
+  }
+  .box {
+    height: 350px;
+    padding-top: 100px;
   }
 }
