@@ -18,22 +18,21 @@
     "startDate": "Jan, 2020",
     "endDate": "Apr, 2020",
     "experiences": [
-      "Completed industrial training in Web Development with success.",
+      "Completed intensive industrial training in Web Development, mastering over 50+ hours of hands-on web projects, and achieving a stellar 90% rating in final assessments.",
       "Showcased strong algorithmic skills and a commitment to continuous learning."
     ],
     "imageSrc": "history/logixfirm.png",
     "certificateUrl": "https://drive.google.com/file/d/1nGCAGkR7RdrnLGa1kvL0iQ3SfRXrsVo4/view?usp=sharing"
   },
   {
-    "role": "Web Development Apprentice",
+    "role": "Web Development Masterclass",
     "organisation": "Udemy",
     "startDate": "May, 2021",
     "endDate": "Sep, 2021",
     "experiences": [
-      "Expert in web development using LAMP Stack, HTML5, CSS, Bootstrap, and JavaScript.",
-      "Skilled in creating responsive web apps with XML, AJAX, and dynamic content integration.",
-      "Experienced in MySQL database integration and server administration.",
-      "Proficient in configuring domain names and managing DNS settings, including setting up custom business email addresses with Google Apps for Work."
+      "Expertise in network setup, domain registration, and DNS configuration for optimal online presence.",
+      "Proficient in local and cloud server setup, security, and resource scaling for efficient web hosting.",
+      "Skilled in HTML, CSS, JavaScript, MySQL and ensuring dynamic and secure web applications."
     ],
     "imageSrc": "history/udemy.png",
     "certificateUrl": "https://www.udemy.com/certificate/UC-62301d6e-078b-4d73-b51b-5e0130db5cdf/"
