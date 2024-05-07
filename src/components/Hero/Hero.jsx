@@ -4,11 +4,6 @@ import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   const openResume = () => {
-    // window.open(
-    //   "https://drive.google.com/file/d/1NBEOTqH0SX1oM-vgsf7qOy9G-ctxn8S7/view?usp=drivelink",
-    //   "_blank",
-    //   "toolbar=yes,scrollbars=yes,resizable=yes,top=100,left=100,width=800,height=600"
-    // );
     window.open(
       "https://drive.google.com/file/d/17wx_eA2En216BBVYEmBi6sOphY_5vClm/view?usp=sharing",
       "_blank",
