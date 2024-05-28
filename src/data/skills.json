@@ -7,18 +7,7 @@
     "title": "C++",
     "imageSrc": "skills/c++.png"
   },
-  {
-    "title": "Java",
-    "imageSrc": "skills/java.png"
-  },
-  {
-    "title": "Python",
-    "imageSrc": "skills/python.png"
-  },
-  {
-    "title": "Google Colab",
-    "imageSrc": "skills/googlecolab.png"
-  },
+
   {
     "title": "HTML",
     "imageSrc": "skills/html.png"
@@ -35,37 +24,10 @@
     "title": "JavaScript",
     "imageSrc": "skills/javascript.png"
   },
-  {
-    "title": "Node JS",
-    "imageSrc": "skills/node.png"
-  },
-  {
-    "title": "NPM",
-    "imageSrc": "skills/npm.png"
-  },
-  {
-    "title": "Express JS",
-    "imageSrc": "skills/express.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Postman",
-    "imageSrc": "skills/postman.png"
-  },
+
   {
     "title": "Tailwind CSS",
     "imageSrc": "skills/tailwind.png"
-  },
-  {
-    "title": "React JS",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Next JS",
-    "imageSrc": "skills/nextjs.png"
   },
   {
     "title": "Git",
