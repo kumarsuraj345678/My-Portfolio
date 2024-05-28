@@ -24,14 +24,6 @@
     "source": "https://github.com/surajkumar345678/IMDB-Next-App"
   },
   {
-    "title": "To-Do List",
-    "imageSrc": "projects/todolist.png",
-    "description": "Effortlessly manage your tasks with this intuitive To-Do List application, designed for simplicity and productivity.",
-    "skills": ["React JS", "UUID", "Tailwind CSS", "LocalStorage"],
-    "demo": "https://todaydo.netlify.app/",
-    "source": "https://github.com/surajkumar345678/To-Do-List-App"
-  },
-  {
     "title": "Student Registration Form",
     "imageSrc": "projects/srf.png",
     "description": "A sleek and intuitive web form for student registration, featuring robust validation and file upload restrictions.",
