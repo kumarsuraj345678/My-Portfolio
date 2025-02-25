@@ -24,22 +24,22 @@ export const Contact = () => {
         </li>
 
         <li className={styles.link}>
-          <a href="https://github.com/surajkumar345678">
+          <a href="https://github.com/kumarsuraj345678">
             <i
               className="fa-brands fa-github fa-fade fa-2xl"
               style={{ color: "#5ab9ff" }}
             ></i>
-            github.com/surajkumar345678
+            github.com/kumarsuraj345678
           </a>
         </li>
 
         <li className={styles.link}>
-          <a href="https://www.linkedin.com/in/suraj-kumar-b23762131/">
+          <a href="https://www.linkedin.com/in/kumarsuraj345678/">
             <i
               className="fa-brands fa-linkedin fa-fade fa-2xl"
               style={{ color: "#5ab9ff" }}
             ></i>
-            linkedin.com/in/suraj-kumar-b23762131
+            linkedin.com/in/kumarsuraj345678
           </a>
         </li>
       </ul>
