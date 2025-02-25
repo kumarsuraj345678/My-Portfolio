@@ -14,7 +14,7 @@ const Projects = () => {
       </div>
       <div className={`${styles.buttonsRow}`}>
         <a
-          href="https://github.com/surajkumar345678?tab=repositories"
+          href="https://github.com/kumarsuraj345678?tab=repositories"
           className={styles.moreBtn}
           title="More Projects"
         >
