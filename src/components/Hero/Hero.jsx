@@ -24,7 +24,7 @@ export const Hero = () => {
         </p>
         <div className={`${styles.buttonsRow}`}>
           <a
-            href="https://www.linkedin.com/in/suraj-kumar-b23762131/"
+            href="https://www.linkedin.com/in/kumarsuraj345678/"
             className={styles.contactBtn}
           >
             <i className="fa-solid fa-user-plus"></i>
