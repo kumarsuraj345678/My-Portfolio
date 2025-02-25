@@ -1,14 +1,5 @@
 [
-  {
-    "title": "C",
-    "imageSrc": "skills/c.png"
-  },
-  {
-    "title": "C++",
-    "imageSrc": "skills/c++.png"
-  },
-
-  {
+ {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -17,17 +8,60 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title":"Sass",
+    "imageSrc":"skills/sass.png"
+  },
+  {
+    "title":"React",
+    "imageSrc":"skills/react.png"
+  },
+  {
+    "title":"Redux",
+    "imageSrc":"skills/redux.png"
+  },
+  {
+    "title":"Bootstrap",
+    "imageSrc":"skills/bootstrap.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Material UI",
+    "imageSrc": "skills/materialui.png"
+  },
+  {
+    "title": "Next JS",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "NPM",
+    "imageSrc": "skills/npm.png"
+  },
+  {
+    "title": "Babel",
+    "imageSrc": "skills/babel.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "title": "Vite",
+    "imageSrc": "skills/vite.png"
   },
-
   {
-    "title": "Tailwind CSS",
-    "imageSrc": "skills/tailwind.png"
+    "title": "Netlify",
+    "imageSrc": "skills/netlify.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "skills/vscode.png"
   },
   {
     "title": "Git",
@@ -36,9 +70,5 @@
   {
     "title": "Github",
     "imageSrc": "skills/github.png"
-  },
-  {
-    "title": "VS Code",
-    "imageSrc": "skills/vscode.png"
   }
 ]
