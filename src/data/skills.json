@@ -1,67 +1,55 @@
 [
- {
+  {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/html.svg"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "skills/css.svg"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "skills/javascript.svg"
   },
   {
-    "title":"Sass",
-    "imageSrc":"skills/sass.png"
+    "title": "React",
+    "imageSrc": "skills/react.svg"
   },
   {
-    "title":"React",
-    "imageSrc":"skills/react.png"
+    "title": "Redux",
+    "imageSrc": "skills/redux.svg"
   },
   {
-    "title":"Redux",
-    "imageSrc":"skills/redux.png"
-  },
-  {
-    "title":"Bootstrap",
-    "imageSrc":"skills/bootstrap.png"
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.svg"
   },
   {
     "title": "Tailwind CSS",
-    "imageSrc": "skills/tailwind.png"
+    "imageSrc": "skills/tailwind.svg"
   },
   {
     "title": "Material UI",
-    "imageSrc": "skills/materialui.png"
+    "imageSrc": "skills/materialui.svg"
   },
   {
     "title": "Next JS",
-    "imageSrc": "skills/nextjs.png"
+    "imageSrc": "skills/nextjs.svg"
   },
   {
     "title": "NPM",
-    "imageSrc": "skills/npm.png"
-  },
-  {
-    "title": "Babel",
-    "imageSrc": "skills/babel.png"
+    "imageSrc": "skills/npm.svg"
   },
   {
     "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/figma.svg"
   },
   {
     "title": "Vite",
-    "imageSrc": "skills/vite.png"
-  },
-  {
-    "title": "Netlify",
-    "imageSrc": "skills/netlify.png"
+    "imageSrc": "skills/vite.svg"
   },
   {
     "title": "VS Code",
-    "imageSrc": "skills/vscode.png"
+    "imageSrc": "skills/vscode.svg"
   },
   {
     "title": "Git",
@@ -69,6 +57,6 @@
   },
   {
     "title": "Github",
-    "imageSrc": "skills/github.png"
+    "imageSrc": "skills/github.svg"
   }
 ]
