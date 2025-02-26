@@ -1,43 +1,43 @@
 [
   {
-    "title": "Amirty University",
-    "imageSrc": "projects/amirtyuniversity.png",
-    "description": "A responsive website showcasing Amirty University's courses, facilities, and contact information.",
-    "skills": ["HTML5", "CSS3", "JavaScript"],
-    "demo": "https://amirtyuniversity.netlify.app/",
-    "source": "https://github.com/surajkumar345678/Amirty-University"
-  },
-  {
-    "title": "IMDb Next App",
-    "imageSrc": "projects/imdbnext.png",
-    "description": "A sleek movie database web app built with Next.js and Tailwind CSS. Explore, stay updated, and engage with fellow movie lovers. Powered by TMDB API for rich movie data. Responsive design for seamless browsing.",
-    "skills": ["Next JS", "Tailwind CSS", "Next Themes", "TMDB API"],
-    "demo": "https://github.com/surajkumar345678/IMDB-Next-App",
-    "source": "https://github.com/surajkumar345678/IMDB-Next-App"
-  },
-  {
     "title": "Student Registration Form",
     "imageSrc": "projects/srf.png",
-    "description": "A sleek and intuitive web form for student registration, featuring robust validation and file upload restrictions.",
+    "description": "A modern and fully responsive Student Registration Form that ensures an intuitive and seamless registration process. It features real-time validation, password strength indication, and profile photo upload, making it user-friendly and efficient.",
     "skills": ["HTML5", "CSS3", "JavaScript"],
     "demo": "https://srf.netlify.app/",
-    "source": "https://github.com/surajkumar345678/Student-Registration-Form"
+    "source": "https://github.com/kumarsuraj345678/Student-Registration-Form"
   },
   {
-    "title": "Infinitious",
-    "imageSrc": "projects/infinitious.png",
-    "description": "Endless inspiration with infinite scrolling. Explore captivating images seamlessly on any device. Click, explore, and get lost in a visual journey.",
-    "skills": ["HTML5", "CSS3", "JavaScript", "Unsplash API"],
-    "demo": "https://infinitious.netlify.app/",
-    "source": "https://github.com/surajkumar345678/Infinitious"
+    "title": "Amirty University",
+    "imageSrc": "projects/amirtyuniversity.png",
+    "description": "A responsive website showcasing Amirty University's courses, facilities, and contact information, designed for easy navigation and information access.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://amirtyuniversity.netlify.app/",
+    "source": "https://github.com/kumarsuraj345678/Amirty-University"
   },
   {
-    "title": "Liv Weather App",
-    "imageSrc": "projects/livweather.png",
-    "description": "Stay informed about weather conditions and local time with this dynamic application. Enjoy real-time updates and sleek weather icons for any city. Stay stylish, stay informed!",
-    "skills": ["HTML5", "CSS3", "JavaScript", "OpenWeatherMap API"],
-    "demo": "https://livweather.netlify.app/",
-    "source": "https://github.com/surajkumar345678/Live-Weather-App"
+    "title": "Weather Now",
+    "imageSrc": "projects/weathernow.png",
+    "description": "Weather Now is a real-time weather application that provides current weather conditions, air quality data, and local time for any city worldwide. Features include temperature display in both Fahrenheit and Celsius, animated weather icons, and a responsive design for seamless use across devices.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "OpenWeatherMap API", "Meteocons"],
+    "demo": "https://kumarsuraj345678.github.io/Weather-Now/",
+    "source": "https://github.com/kumarsuraj345678/Weather-Now"
+  },
+  {
+    "title": "REST Countries API Project",
+    "imageSrc": "projects/restcountries.png",
+    "description": "A sleek web application that leverages the REST Countries API to provide comprehensive information about countries. Users can effortlessly search for countries, view detailed information, and filter countries by region.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "REST Countries API"],
+    "demo": "https://kumarsuraj345678.github.io/REST-Countries-API-Project/",
+    "source": "https://github.com/kumarsuraj345678/REST-Countries-API-Project"
+  },
+  {
+    "title": "Anti Deepfake Video Converter",
+    "imageSrc": "projects/antideepfakeconverter.png",
+    "description": "A frontend-only web application that provides a sleek UI prototype for deepfake video detection and conversion. Built with React, Tailwind CSS, and Vite, this project offers an interactive interface for exploring how deepfake detection might work.",
+    "skills": ["React JS", "JavaScript","Tailwind CSS", "Vite"],
+    "demo": "https://antideepfakeconverter.netlify.app/",
+    "source": "https://github.com/kumarsuraj345678/Anti-Deepfake-Video-Converter"
   },
   {
     "title": "ImagiNet",
@@ -48,12 +48,12 @@
     "source": "https://github.com/surajkumar345678/ImagiNet"
   },
   {
-    "title": "Quote Cycle",
-    "imageSrc": "projects/quotecycle.png",
-    "description": "Your Daily Dose of Inspiration. Discover, share, and be inspired by random quotes with just a click. Simple, elegant, and motivational.",
-    "skills": ["HTML5", "CSS3", "JavaScript", "Type.fit API"],
-    "demo": "https://quotecycle.netlify.app/",
-    "source": "https://github.com/surajkumar345678/Quote-Cycle"
+    "title": "Infinitious",
+    "imageSrc": "projects/infinitious.png",
+    "description": "Endless inspiration with infinite scrolling. Explore captivating images seamlessly on any device. Click, explore, and get lost in a visual journey.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Unsplash API"],
+    "demo": "https://infinitious.netlify.app/",
+    "source": "https://github.com/kumarsuraj345678/Infinitious"
   },
   {
     "title": "Tic Tac Toe",
@@ -61,6 +61,6 @@
     "description": "A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Features include interactive gameplay, win and draw detection, and responsive design. ",
     "skills": ["HTML5", "CSS3", "JavaScript"],
     "demo": "https://t3challenge.netlify.app/",
-    "source": "https://github.com/surajkumar345678/Tic-Tac-Toe-Game"
+    "source": "https://github.com/kumarsuraj345678/Tic-Tac-Toe-Game"
   }
 ]

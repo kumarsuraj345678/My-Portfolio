@@ -18,7 +18,7 @@ const Projects = () => {
           className={styles.moreBtn}
           title="More Projects"
         >
-          <i className="fa-solid fa-ellipsis fa-fade"></i>
+          <FontAwesomeIcon icon="fa-solid fa-angle-down" bounce />
         </a>
       </div>
     </section>

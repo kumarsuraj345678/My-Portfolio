@@ -25,10 +25,10 @@ const ProjectCard = ({
       </ul>
       <div className={styles.links}>
         <a href={demo} className={styles.link} title="Deployed Link">
-        <i class="fa-solid fa-rocket"></i>Demo
+        <FontAwesomeIcon icon="fa-solid fa-up-right-from-square" fade />Demo
         </a>
         <a href={source} className={styles.link} title="Source code on GitHub">
-        <i class="fa-solid fa-code"></i>Source
+        <FontAwesomeIcon icon="fa-solid fa-code" fade />Source
         </a>
       </div>
     </div>
