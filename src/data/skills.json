@@ -28,10 +28,6 @@
     "imageSrc": "skills/tailwind.svg"
   },
   {
-    "title": "Material UI",
-    "imageSrc": "skills/materialui.svg"
-  },
-  {
     "title": "Next JS",
     "imageSrc": "skills/nextjs.svg"
   },
@@ -40,23 +36,7 @@
     "imageSrc": "skills/npm.svg"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.svg"
-  },
-  {
-    "title": "Vite",
-    "imageSrc": "skills/vite.svg"
-  },
-  {
-    "title": "VS Code",
-    "imageSrc": "skills/vscode.svg"
-  },
-  {
     "title": "Git",
     "imageSrc": "skills/git.svg"
-  },
-  {
-    "title": "Github",
-    "imageSrc": "skills/github.svg"
   }
 ]
