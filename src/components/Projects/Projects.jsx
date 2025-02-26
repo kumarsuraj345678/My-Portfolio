@@ -2,6 +2,8 @@ import React from "react";
 import projects from "../../data/projects.json";
 import ProjectCard from "./ProjectCard";
 import styles from "./Projects.module.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faAngleDown } from "@fortawesome/free-solid-svg-icons";
 
 const Projects = () => {
   return (
@@ -18,7 +20,7 @@ const Projects = () => {
           className={styles.moreBtn}
           title="More Projects"
         >
-          <FontAwesomeIcon icon="fa-solid fa-angle-down" bounce />
+          <FontAwesomeIcon icon={faAngleDown} bounce />
         </a>
       </div>
     </section>

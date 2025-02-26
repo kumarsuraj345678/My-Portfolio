@@ -1,6 +1,9 @@
 import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./ProjectCard.module.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faUpRightFromSquare, faCode } from "@fortawesome/free-solid-svg-icons";
+
 
 const ProjectCard = ({
   project: { title, imageSrc, description, skills, demo, source },
@@ -24,12 +27,13 @@ const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link} title="Deployed Link">
-        <FontAwesomeIcon icon="fa-solid fa-up-right-from-square" fade />Demo
-        </a>
-        <a href={source} className={styles.link} title="Source code on GitHub">
-        <FontAwesomeIcon icon="fa-solid fa-code" fade />Source
-        </a>
+      <a href={demo} className={styles.link} title="Deployed Link" target="_blank" rel="noopener noreferrer">
+  <FontAwesomeIcon icon={faUpRightFromSquare} fade /> Demo
+</a>
+<a href={source} className={styles.link} title="Source code on GitHub" target="_blank" rel="noopener noreferrer">
+  <FontAwesomeIcon icon={faCode} fade /> Source
+</a>
+
       </div>
     </div>
   );
