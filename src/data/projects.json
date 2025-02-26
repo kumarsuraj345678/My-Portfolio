@@ -66,7 +66,7 @@
     "imageSrc": "projects/t3challenge.png",
     "description": "❌⭕ The timeless classic with a modern twist! Challenge your friends with this interactive Tic-Tac-Toe game featuring sleek design, responsive gameplay, and smart win/draw detection.",
     "skills": ["HTML5", "CSS3", "JavaScript"],
-    "demo": "https://t3challenge.netlify.app/",
+    "demo": "https://kumarsuraj345678.github.io/Tic-Tac-Toe-Game/",
     "source": "https://github.com/kumarsuraj345678/Tic-Tac-Toe-Game"
   }
 ]
