@@ -25,32 +25,6 @@
     "certificateUrl": "https://drive.google.com/file/d/1nGCAGkR7RdrnLGa1kvL0iQ3SfRXrsVo4/view?usp=sharing"
   },
   {
-    "role": "Web Development Masterclass",
-    "organisation": "Udemy",
-    "startDate": "May, 2021",
-    "endDate": "Sep, 2021",
-    "experiences": [
-      "Expertise in network setup, domain registration, and DNS configuration for optimal online presence.",
-      "Proficient in local and cloud server setup, security, and resource scaling for efficient web hosting.",
-      "Skilled in HTML, CSS, JavaScript, and MySQL for developing secure and responsive web applications"
-    ],
-    "imageSrc": "history/udemy.png",
-    "certificateUrl": "https://www.udemy.com/certificate/UC-62301d6e-078b-4d73-b51b-5e0130db5cdf/"
-  },
-  {
-    "role": "Google Cloud Ready Facilitator Program Apprentice",
-    "organisation": "Google Cloud",
-    "startDate": "Apr, 2022",
-    "endDate": "Jul, 2022",
-    "experiences": [
-      "Engaged in the Google Cloud Ready Facilitator program.",
-      "Acquired proficiency in diverse Google Cloud technologies.",
-      "Attained the Ultimate Milestone and earned numerous badges to enhance my expertise."
-    ],
-    "imageSrc": "history/googlecloud.png",
-    "certificateUrl": "https://drive.google.com/file/d/1rtfO9AKDpBf0-j0Jq7vnce-_dl8wjBCu/view?usp=sharing"
-  },
-  {
     "role": "Machine Learning Intern",
     "organisation": "YBI Foundation",
     "startDate": "Aug, 2022",
@@ -76,18 +50,5 @@
     ],
     "imageSrc": "history/internpe.jpg",
     "certificateUrl": "https://drive.google.com/file/d/1xGbf_-hChtC097Ek8ove3gtEJIW7N9u1/view?usp=sharing"
-  },
-  {
-    "role": "Hacktoberfest 2022 Participant",
-    "organisation": "DigitalOcean, Appwrite, Docker, Inc, and GitHub",
-    "startDate": "October, 2022",
-    "endDate": "October, 2022",
-    "experiences": [
-      "Contributed to open-source projects, submitting 4 pull requests during Hacktoberfest 2022, all accepted by the Hacktoberfest team.",
-      "Received badges from Holopin and DigitalOcean as recognition for participation in Hacktoberfest 2022.",
-      "Received Hacktoberfest swag, including a t-shirt and stickers, for contributing to open-source projects during the event."
-    ],
-    "imageSrc": "history/hacktoberfest.png",
-    "certificateUrl": "https://www.linkedin.com/posts/suraj-kumar-b23762131_hacktoberfest2022-opensource-opensourcecommunity-activity-6989601929878245376-_wT0?utm_source=share&utm_medium=member_desktop"
   }
 ]
