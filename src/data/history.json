@@ -1,32 +1,46 @@
 [
   {
-    "role": "Frontend Developer Apprentice",
-    "organisation": "Pirple",
-    "startDate": "Jan, 2020",
-    "endDate": "March, 2020",
+    "role": "Frontend Developer Intern",
+    "organization": "Doc-Q",
+    "startDate": "Sep, 2024",
+    "endDate": "Jan, 2025",
     "experiences": [
-      "Completed the FRONTEND FUNDAMENTALS course.",
-      "Mastered HTML5 and CSS3 basics and advanced.",
-      " Applied skills in Responsiveness, User Experience, Responsive Web Design, and GUI design."
+      "Developed and implemented Login and Sign up pages with secure user authentication, alongside Message Page and Settings Page for user interactions and account management.",
+      "Built an Anti Deepfake Video Converter using React JS and Tailwind CSS, simulating video conversion and deepfake detection interfaces.",
+      "Implemented React Router navigation, React Dropzone file uploads, and responsive design, delivering dynamic UI/UX with seamless workflows."
     ],
-    "imageSrc": "history/pirple.png",
-    "certificateUrl": "https://www.credential.net/dd5b5cbe-e122-45aa-9465-aa256c8044bf#gs.659ai9"
+    "imageSrc": "history/docq.jpg",
+    "certificateUrl": "https://drive.google.com/file/d/1JIBvgfFbQnBmKgpWRBndfY0fjp931xlt/view?usp=sharing"
   },
   {
-    "role": "Web Development Industrial Training",
-    "organisation": "LogixFirm",
-    "startDate": "Jan, 2020",
-    "endDate": "Apr, 2020",
+    "role": "Frontend Developer Intern",
+    "organization": "Techplement",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
     "experiences": [
-      "Completed intensive industrial training in Web Development, mastering over 50+ hours of hands-on web projects, and achieving a stellar 90% rating in final assessments.",
-      "Showcased strong algorithmic skills and a commitment to continuous learning."
+      "Designed and developed an interactive Online Quiz Platform using JavaScript and Bootstrap. Implemented real-time scoring and result tracking.",
+      " Created a dynamic Weather App using OpenWeatherMap API, optimizing API requests for real-time updates on weather, AQI, and local time with minimal latency.",
+      "Collaborated with Techplement Web 16 team to design and implement a responsive UI, integrating APIs for seamless data fetching and improved performance."
     ],
-    "imageSrc": "history/logixfirm.png",
-    "certificateUrl": "https://drive.google.com/file/d/1nGCAGkR7RdrnLGa1kvL0iQ3SfRXrsVo4/view?usp=sharing"
+    "imageSrc": "history/techplement.jpg",
+    "certificateUrl": "https://drive.google.com/file/d/1aXSdDKSEvn4vDuhnSlREw4GlHqm0mE2g/view?usp=sharing"
+  },
+  {
+    "role": "Web Development Intern",
+    "organization": "InternPe",
+    "startDate": "Sep, 2022",
+    "endDate": "Oct, 2022",
+    "experiences": [
+      "Spearheaded initiatives resulting in a 50% faster app load and 15% better user retention.",
+      "Revamped user interface, fixing bugs that boosted conversion rate by 10%.",
+      "Achieved a 30% increase in user engagement and a 25% decrease in bounce rate through strategic improvements."
+    ],
+    "imageSrc": "history/internpe.jpg",
+    "certificateUrl": "https://drive.google.com/file/d/1xGbf_-hChtC097Ek8ove3gtEJIW7N9u1/view?usp=sharing"
   },
   {
     "role": "Machine Learning Intern",
-    "organisation": "YBI Foundation",
+    "organization": "YBI Foundation",
     "startDate": "Aug, 2022",
     "endDate": "Sep, 2022",
     "experiences": [
@@ -39,16 +53,28 @@
     "certificateUrl": "https://drive.google.com/file/d/1Ybqyj8rCZ3mQnug71PzcMRUzuno-moON/view?usp=sharing"
   },
   {
-    "role": "Web Development Intern",
-    "organisation": "InternPe",
-    "startDate": "Sep, 2022",
-    "endDate": "Oct, 2022",
+    "role": "Web Development Industrial Training",
+    "organization": "LogixFirm",
+    "startDate": "Jan, 2020",
+    "endDate": "Apr, 2020",
     "experiences": [
-      "Spearheaded initiatives resulting in a 50% faster app load and 15% better user retention.",
-      "Revamped user interface, fixing bugs that boosted conversion rate by 10%.",
-      "Achieved a 30% increase in user engagement and a 25% decrease in bounce rate through strategic improvements."
+      "Completed intensive industrial training in Web Development, mastering over 50+ hours of hands-on web projects, and achieving a stellar 90% rating in final assessments.",
+      "Showcased strong algorithmic skills and a commitment to continuous learning."
     ],
-    "imageSrc": "history/internpe.jpg",
-    "certificateUrl": "https://drive.google.com/file/d/1xGbf_-hChtC097Ek8ove3gtEJIW7N9u1/view?usp=sharing"
+    "imageSrc": "history/logixfirm.png",
+    "certificateUrl": "https://drive.google.com/file/d/1nGCAGkR7RdrnLGa1kvL0iQ3SfRXrsVo4/view?usp=sharing"
+  },
+  {
+    "role": "Frontend Developer Apprentice",
+    "organization": "Pirple",
+    "startDate": "Jan, 2020",
+    "endDate": "March, 2020",
+    "experiences": [
+      "Completed the FRONTEND FUNDAMENTALS course.",
+      "Mastered HTML5 and CSS3 basics and advanced.",
+      " Applied skills in Responsiveness, User Experience, Responsive Web Design, and GUI design."
+    ],
+    "imageSrc": "history/pirple.png",
+    "certificateUrl": "https://www.credential.net/dd5b5cbe-e122-45aa-9465-aa256c8044bf#gs.659ai9"
   }
 ]
