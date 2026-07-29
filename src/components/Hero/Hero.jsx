@@ -5,9 +5,7 @@ import { getImageUrl } from "../../utils";
 export const Hero = () => {
   const openResume = () => {
     window.open(
-      "https://drive.google.com/drive/folders/1cigDyC51E8zkTAow9KkvWWthc6lCDISa?usp=sharing",
-      "_blank",
-      "toolbar=yes,scrollbars=yes,resizable=yes,top=100,left=100,width=800,height=600"
+      "https://connectsblue.com/r/suraj-kumar-4"
     );
   };
   return (
